@@ -19,4 +19,3 @@ public class StudentController {
         students.removeIf(student -> student.getId() == id);
     }
 }
-

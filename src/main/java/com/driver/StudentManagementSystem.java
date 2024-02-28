@@ -24,4 +24,3 @@ public class StudentManagementSystem {
         view.printStudentDetails(allStudents);
     }
 }
-
